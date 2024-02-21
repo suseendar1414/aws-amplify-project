@@ -1,5 +1,4 @@
 # aws-amplify-project
-# AWS Services Project
 
 ## Overview
 This project is a demonstration of building a web application using various AWS services, including AWS Amplify, Amazon API Gateway, AWS Lambda, Amazon DynamoDB, and AWS Identity and Access Management (IAM). It showcases how these services can be integrated to create a fully functional application.
